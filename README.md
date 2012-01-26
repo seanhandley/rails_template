@@ -1,4 +1,4 @@
-# Rails Templae
+# Rails Template
 
 Template app for Rails 3.2, RSpec 2.8, Devise, jQuery, Bootstrap and Jasmine
 
